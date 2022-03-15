@@ -1,0 +1,17 @@
+git+https://github.com/AnonymousBoy1025/yt-dl@master
+pyrogram
+TgCrypto
+py-tgcalls==0.8.1
+python-dotenv
+youtube_search_python
+requests
+aiohttp
+aiofiles
+asyncio
+youtube_search
+search_engine_parser
+ffmpeg-python
+ffmpeg
+Pillow
+ujson
+psutil
