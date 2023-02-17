@@ -5,7 +5,6 @@ py-tgcalls==0.8.1
 python-dotenv
 youtube_search_python
 requests
-aiohttp
 aiofiles
 asyncio
 youtube_search
